@@ -1,0 +1,28 @@
+name: App8ite
+favicon: null
+layout_spectrum: 0.34443058213219047
+typography_spectrum: 0.7709357340354472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.39236145559698343
+  lightness: 0.6126756612211466
+  saturation: 0.44472847785800695
+  rhythmicContrast: 0.4920060147996992
+purpose: []
